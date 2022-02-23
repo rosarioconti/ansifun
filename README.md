@@ -1,7 +1,9 @@
 # ansifun
 
-Check out my GIST images
+* Check out my images for your terminal!
 
-"Veggie Burger" -> curl -L shorturl.at/uzDH3
-"Doom Face" -> curl -L shorturl.at/jzEO1
-"Ma che cazzo" -> curl -L https://tinyurl.com/machecaz
+** "Veggie Burger" -> curl -L https://tinyurl.com/veburger
+
+** "Doom Face 1" -> curl -L https://tinyurl.com/doomface1
+
+** "Ma che cazzo" -> curl -L https://tinyurl.com/machecaz
